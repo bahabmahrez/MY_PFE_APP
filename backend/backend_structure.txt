@@ -1,0 +1,39 @@
+Folder PATH listing
+Volume serial number is 1EDA-418B
+C:.
+³   .env
+³   backend_structure.txt
+³   package-lock.json
+³   package.json
+³   server.js
+³   
+ÃÄÄÄconfig
+³       db.js
+³       
+ÃÄÄÄmiddleware
+³       authMiddleware.js
+³       
+ÃÄÄÄmodels
+³       Category.js
+³       Manufacturer.js
+³       Product.js
+³       User.js
+³       
+ÃÄÄÄpublic
+³   ³   xdd.txt
+³   ³   
+³   ÀÄÄÄqrcodes
+³           67da55f56d0f5e535016ef1d.png
+³           67da55fd6d0f5e535016ef1f.png
+³           67db99727b269d86533efd96.png
+³           67e4f9fc33bf6b7d6a1003cc.png
+³           67e8d3bf45760f3f8d7825c5.png
+³           67e8d49e45760f3f8d7825dd.png
+³           67ebd685d9bcd104937555eb.png
+³           
+ÀÄÄÄroutes
+        auth.js
+        categories.js
+        manufacturers.js
+        products.js
+        
